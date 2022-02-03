@@ -10,3 +10,5 @@ tinta = area / 2
 
 print('Sua parede tem uma dimensão de {} x {} e sua área é de {}m²'.format(larg, alt, area))
 print('Para pintar sua parede, você precisará de {} litros de tinta'.format(tinta))
+
+#Este paragrafo foi modificado pelo github deskop
